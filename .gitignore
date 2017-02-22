@@ -44,3 +44,6 @@ bower.json
 
 # Ignore Rubymine idea folder
 /.idea/
+
+# Ignore Spring files
+/spring/*.pid
